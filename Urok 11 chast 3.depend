@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711898367 source:c:\gl\works\urok 11 chast 3\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
